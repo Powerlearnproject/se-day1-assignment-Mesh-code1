@@ -227,3 +227,6 @@ Vague Prompt:
 
 Improved Prompt:
 "Provide an overview of software engineering including its key principles, importance in the technology industry, and its main phases."
+
+Explanation:
+The improved prompt is more specific and clear. It narrows down the topic to software engineering, specifies what aspects to cover (principles, importance, phases), and reduces ambiguity. Clarity ensures the AI model generates a focused and informative response making it more effective for the user’s needs.
